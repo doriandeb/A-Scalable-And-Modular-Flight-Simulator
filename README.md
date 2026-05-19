@@ -7,6 +7,4 @@ Physics.cpp / .h — Core physics loop
 MathFunctions.cpp / .h — Coordinate transformations
 Parameters.h — Aircraft parameters and aerodynamic coefficients
 
-References
-
-NASA CR-2144 — Heffley, Aircraft Handling Qualities Data
+In this repository, all the C++ and .h files required are included.
